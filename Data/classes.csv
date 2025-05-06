@@ -1,0 +1,101 @@
+class_id,name,instructor,schedule
+1,Yoga Basics,Alexander Turner,Wed 07:00-08:00
+2,Zumba Blast,Melissa Barber,Tue 18:00-19:00
+3,BoxFit,Jonathan Hodge,Wed 07:00-08:00
+4,Aqua Aerobics,Jeffrey Ortiz,Fri 07:30-08:30
+5,Zumba Blast,Allison Miller,Fri 07:30-08:30
+6,BoxFit,Bobby Prince,Tue 18:00-19:00
+7,Spin Express,Jonathan Hodge,Thu 19:00-20:00
+8,Spin Express,Michael Mendez,Fri 07:30-08:30
+9,Zumba Blast,Christopher Smith,Tue 18:00-19:00
+10,BoxFit,Jonathan Hodge,Wed 07:00-08:00
+11,HIIT Training,Kelly Matthews,Tue 18:00-19:00
+12,Zumba Blast,Jeffrey Ortiz,Wed 07:00-08:00
+13,Zumba Blast,Jessica Barnes,Wed 07:00-08:00
+14,Spin Express,Kelly Matthews,Tue 18:00-19:00
+15,Aqua Aerobics,Gary Mccarty,Fri 07:30-08:30
+16,BoxFit,Tammy Miller,Tue 18:00-19:00
+17,Spin Express,Daniel Davis DVM,Thu 19:00-20:00
+18,Aqua Aerobics,George Johnson,Thu 19:00-20:00
+19,BoxFit,Tammy Miller,Wed 07:00-08:00
+20,Zumba Blast,Christopher Smith,Mon 08:00-09:00
+21,Spin Express,Christopher Smith,Thu 19:00-20:00
+22,Spin Express,Sara Garcia,Thu 19:00-20:00
+23,Pilates Core,George Johnson,Wed 07:00-08:00
+24,Spin Express,Cameron Whitehead,Fri 07:30-08:30
+25,Zumba Blast,Eric Vargas,Thu 19:00-20:00
+26,Yoga Basics,Paula Cisneros,Tue 18:00-19:00
+27,BoxFit,Michael Mendez,Thu 19:00-20:00
+28,Pilates Core,Carolyn Cunningham,Tue 18:00-19:00
+29,BoxFit,Jeffrey Ortiz,Wed 07:00-08:00
+30,Zumba Blast,Tammy Miller,Tue 18:00-19:00
+31,Spin Express,Jeffrey Ortiz,Fri 07:30-08:30
+32,Zumba Blast,Jeffrey Ortiz,Wed 07:00-08:00
+33,HIIT Training,Tammy Miller,Thu 19:00-20:00
+34,Yoga Basics,Cynthia Miller,Thu 19:00-20:00
+35,Yoga Basics,Christina Hernandez,Wed 07:00-08:00
+36,Zumba Blast,Larry Moore,Fri 07:30-08:30
+37,Pilates Core,Kelly Dennis,Tue 18:00-19:00
+38,HIIT Training,Melissa Barber,Mon 08:00-09:00
+39,HIIT Training,William Lewis,Tue 18:00-19:00
+40,Zumba Blast,Shane Wilson,Wed 07:00-08:00
+41,Zumba Blast,Gary Mccarty,Fri 07:30-08:30
+42,Aqua Aerobics,Nicholas Lopez,Thu 19:00-20:00
+43,BoxFit,Jamie Espinoza,Thu 19:00-20:00
+44,Yoga Basics,Jeffrey Ortiz,Wed 07:00-08:00
+45,HIIT Training,Michael Mendez,Mon 08:00-09:00
+46,Yoga Basics,Jeffrey Ortiz,Mon 08:00-09:00
+47,Zumba Blast,Allison Miller,Wed 07:00-08:00
+48,Aqua Aerobics,Kelly Dennis,Mon 08:00-09:00
+49,Yoga Basics,Kelly Dennis,Tue 18:00-19:00
+50,Spin Express,Jonathan Hodge,Tue 18:00-19:00
+51,Zumba Blast,Eric Vargas,Fri 07:30-08:30
+52,Zumba Blast,Carolyn Cunningham,Tue 18:00-19:00
+53,Zumba Blast,William Lewis,Tue 18:00-19:00
+54,Yoga Basics,Melissa Moore,Mon 08:00-09:00
+55,Pilates Core,Jeffrey Ortiz,Fri 07:30-08:30
+56,Pilates Core,William Lewis,Tue 18:00-19:00
+57,BoxFit,Gary Mccarty,Fri 07:30-08:30
+58,Spin Express,Daniel Davis DVM,Thu 19:00-20:00
+59,Zumba Blast,Kelly Dennis,Mon 08:00-09:00
+60,Spin Express,Cynthia Miller,Fri 07:30-08:30
+61,Zumba Blast,Ian Mason,Mon 08:00-09:00
+62,Pilates Core,Ian Mason,Fri 07:30-08:30
+63,BoxFit,Paula Cisneros,Thu 19:00-20:00
+64,HIIT Training,Eric Vargas,Tue 18:00-19:00
+65,HIIT Training,Ian Mason,Tue 18:00-19:00
+66,Aqua Aerobics,Carolyn Cunningham,Wed 07:00-08:00
+67,Spin Express,Kelly Dennis,Fri 07:30-08:30
+68,Aqua Aerobics,Cynthia Miller,Fri 07:30-08:30
+69,Pilates Core,Allison Miller,Wed 07:00-08:00
+70,BoxFit,Cameron Whitehead,Tue 18:00-19:00
+71,BoxFit,Cameron Whitehead,Thu 19:00-20:00
+72,Aqua Aerobics,Larry Moore,Thu 19:00-20:00
+73,Aqua Aerobics,Jessica Barnes,Tue 18:00-19:00
+74,Zumba Blast,Paula Cisneros,Tue 18:00-19:00
+75,Yoga Basics,Jamie Espinoza,Fri 07:30-08:30
+76,Aqua Aerobics,Melissa Barber,Thu 19:00-20:00
+77,Zumba Blast,Melissa Moore,Tue 18:00-19:00
+78,Spin Express,Nicole Jacobs,Wed 07:00-08:00
+79,Pilates Core,Sara Garcia,Tue 18:00-19:00
+80,HIIT Training,Allison Miller,Mon 08:00-09:00
+81,Pilates Core,Christina Hernandez,Mon 08:00-09:00
+82,Spin Express,Melissa Barber,Fri 07:30-08:30
+83,Pilates Core,Sara Garcia,Tue 18:00-19:00
+84,HIIT Training,Carolyn Cunningham,Fri 07:30-08:30
+85,Spin Express,Gary Mccarty,Tue 18:00-19:00
+86,HIIT Training,Carolyn Cunningham,Wed 07:00-08:00
+87,Zumba Blast,Christopher Smith,Fri 07:30-08:30
+88,Zumba Blast,Jamie Espinoza,Mon 08:00-09:00
+89,Yoga Basics,Ian Mason,Thu 19:00-20:00
+90,Yoga Basics,Larry Moore,Mon 08:00-09:00
+91,HIIT Training,Carolyn Cunningham,Mon 08:00-09:00
+92,Yoga Basics,George Johnson,Fri 07:30-08:30
+93,HIIT Training,Melissa Moore,Wed 07:00-08:00
+94,Spin Express,Cynthia Miller,Thu 19:00-20:00
+95,Zumba Blast,Jamie Espinoza,Mon 08:00-09:00
+96,Spin Express,Bobby Prince,Mon 08:00-09:00
+97,Yoga Basics,Tammy Miller,Thu 19:00-20:00
+98,Spin Express,Nicole Jacobs,Fri 07:30-08:30
+99,Yoga Basics,Alexander Turner,Mon 08:00-09:00
+100,BoxFit,Sara Garcia,Wed 07:00-08:00
