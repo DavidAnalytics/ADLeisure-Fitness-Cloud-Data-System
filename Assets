@@ -1,0 +1,10 @@
+SELECT 
+	m.member_id,
+	m.first_name,
+	m.last_name,
+	ma.total_bookings                                                                 
+FROM member_activity ma
+JOIN members m 
+ON m.member_id = ma.member_id
+ORDER BY ma.total_bookings ASC
+Limit 10;
